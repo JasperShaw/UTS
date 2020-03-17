@@ -83,6 +83,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="dt\Class4.cs" />
+    <Compile Include="dt\Class5.cs" />
     <Compile Include="Jasper\Class1.cs" />
     <Compile Include="Jasper\Class2.cs" />
     <Compile Include="Jasper\Class3.cs" />
