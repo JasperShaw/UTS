@@ -8,5 +8,6 @@ namespace WpfApp1.Jasper
 {
     class Class1
     {
+        string Jasper = "20200317,12:20,上海";
     }
 }
