@@ -10,6 +10,7 @@
         <StackPanel>
             <Button Content="Test" x:Name="btn_Test" Click="Btn_Test_Click"/>
             <Button Content="Test1" x:Name="btn_Test1" Click="btn_Test1_Click"/>
+            <Button Content="Test12" x:Name="btn_Test2" Click="Btn_Test2_Click"/>
         </StackPanel>
       
     </Grid>
