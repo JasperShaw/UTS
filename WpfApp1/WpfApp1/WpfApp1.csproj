@@ -84,6 +84,7 @@
     </Compile>
     <Compile Include="Jasper\Class1.cs" />
     <Compile Include="Jasper\Class2.cs" />
+    <Compile Include="Jasper\Class3.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
