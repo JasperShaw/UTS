@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WpfApp1.Jasper
+namespace WpfApp1._1228
 {
-    class Class1
+    class _1228Class
     {
-        string Jasper = "20200317,12:20,上海";
+        //试试看
     }
 }
