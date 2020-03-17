@@ -35,5 +35,10 @@ namespace WpfApp1
         {
             MessageBox.Show("笔记本！");
         }
+
+        private void Btn_Test2_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("我来自笔记本！20200317，14：55");
+        }
     }
 }
