@@ -30,5 +30,16 @@ namespace WpfApp1
             MessageBox.Show("Hello github!");
             //12：20
         }
+
+        private void btn_Test1_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("笔记本！");
+            //最新14：33
+        }
+
+        private void Btn_Test2_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("我来自笔记本！20200317，14：55");
+        }
     }
 }
